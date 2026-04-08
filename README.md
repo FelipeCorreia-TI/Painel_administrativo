@@ -34,10 +34,10 @@ O principal objetivo foi praticar conceitos fundamentais de **CSS Grid, Flexbox,
 
 ```bash
 # Clone o repositório
-git clone https://github.com/FelipeCorreia-TI/seu-repositorio.git
+git clone https://github.com/FelipeCorreia-TI/Painel_administrativo.git
 
 # Acesse a pasta do projeto
-cd seu-repositorio
+cd Painel_administrativo
 
 # Abra o arquivo no navegador
 index.html
